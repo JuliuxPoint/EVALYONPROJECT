@@ -32,6 +32,7 @@ class App(QWidget):
         pyautogui.click(1542, 778)
         pyautogui.click(1542, 855)
         pyautogui.click(1542, 940)
+        time.sleep(2)
         pyautogui.click(1420, 261)
         pyautogui.click(1420, 341)
         pyautogui.click(1420, 413)
